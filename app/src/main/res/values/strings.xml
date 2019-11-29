@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="check_network">Проверьте состояние интернета</string>
+    <string name="update">Обновить</string>
+</resources>
